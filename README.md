@@ -1,7 +1,6 @@
 # Eventora - MERN Event Booking Platform
 
-> **Original project:** https://github.com/ShivaMani02/Eventora-MERN
-> Maine is open source project ko clone karke uska code study kiya aur apni learning ke liye isme changes kiye hain.
+
 
 Eventora ek full-stack event booking application hai jisme users events dekh kar tickets book kar sakte hain, aur admin bookings ko manage karta hai.
 
